@@ -18,7 +18,7 @@ status: active
 ai-first: true
 ---
 
-# Prompt e Template de Design Visual e Prototipagem em Terminal no Claude Code
+# Prototipador de UI e Design System no Terminal (/design)
 
 ## 🎯 Aplicação e Contexto
 Template de especificação visual para ser executado no comando `/design` do Claude Code, permitindo gerar interfaces e mockups interativos diretamente pelo terminal.
