@@ -17,7 +17,7 @@ status: active
 ai-first: true
 ---
 
-# Prompts e Comandos para Instalação e Uso de Skills Especializadas no Claude
+# Guia de Instalação e Parametrização de Skills
 
 ## 🎯 Aplicação e Contexto
 Guia prático para invocar, instalar e parametrizar Skills externas no Claude, transformando-o em um agente com habilidades especializadas de engenharia e design.

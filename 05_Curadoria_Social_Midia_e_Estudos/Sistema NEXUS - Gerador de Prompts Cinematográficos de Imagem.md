@@ -16,7 +16,7 @@ status: active
 ai-first: true
 ---
 
-# Sistema NEXUS - Gerador de Prompts Hiper-realistas para Imagens
+# Sistema NEXUS - Gerador de Prompts Cinematográficos de Imagem
 
 ## 🎯 Aplicação e Contexto
 Sistema avançado para arquitetar prompts cinematográficos e de alta fidelidade para Midjourney v6.1, Flux.1 e Nano Banana Pro, controlando iluminação, lentes e estilo artístico.

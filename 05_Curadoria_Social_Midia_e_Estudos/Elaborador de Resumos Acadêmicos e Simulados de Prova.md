@@ -16,7 +16,7 @@ status: active
 ai-first: true
 ---
 
-# Prompts Acadêmicos para Elaboração de Provas e Resumos de Estudo
+# Elaborador de Resumos Acadêmicos e Simulados de Prova
 
 ## 🎯 Aplicação e Contexto
 Par de prompts operacionais desenvolvidos para criar materiais de estudo estruturados por aula e gerar simulações de provas teóricas estritamente baseadas em fontes.
